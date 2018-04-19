@@ -28,7 +28,7 @@
     * Android
       * [ShadowsocksR](qiang-dong/shi-yong-jiao-cheng/android/shadowsocksr-for-android.md)
     * iOS
-      * [Shadowrocket](qiang-dong/shi-yong-jiao-cheng/ios/shadowrocket/README.md)
+      * Shadowrocket
         * [订阅模式](qiang-dong/shi-yong-jiao-cheng/ios/shadowrocket/ding-yue-mo-shi.md)
         * 订阅模式（Workflow）
       * [Quantumult](qiang-dong/shi-yong-jiao-cheng/ios/quantumult.md)
