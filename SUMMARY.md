@@ -1,5 +1,21 @@
 # Table of contents
 
+* [Rules Document](README.md)
+* Rules
+  * Surge for iOS
+    * [简介](rules/surge/jian-jie.md)
+    * [记录](rules/surge/untitled/README.md)
+      * [Surge 2](rules/surge/untitled/surge-2.md)
+      * [Surge 3](rules/surge/untitled/surge-3.md)
+    * 规则
+      * \[General\]
+      * \[Proxy\] & \[Proxy Group\]
+      * [\[Rule\]](rules/surge/gui-ze/rule/README.md)
+        * [基于域名的规则](rules/surge/gui-ze/rule/ji-yu-yu-ming-de-gui-ze.md)
+        * [基于 IP 的规则](rules/surge/gui-ze/rule/ji-yu-ip-de-gui-ze.md)
+        * [HTTP 规则](rules/surge/gui-ze/rule/http-gui-ze.md)
+        * [Process 规则](rules/surge/gui-ze/rule/process-gui-ze.md)
+        * [Final 规则](rules/surge/gui-ze/rule/final-gui-ze.md)
 * [墙洞](qiang-dong/README.md)
   * 使用教程
     * [订阅地址 & 托管地址](qiang-dong/shi-yong-jiao-cheng/shi-yong-shou-ce.md)
