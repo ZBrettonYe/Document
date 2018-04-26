@@ -6,11 +6,9 @@
 
 
 
-{% hint style="danger" %}
 此应用已在国区下架，直接搜索会出现盗版不可用的「ShadowRkcoet」。
 
 （可以在 墙洞.com 的「兼容软件」页面获取）
-{% endhint %}
 
 
 

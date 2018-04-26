@@ -24,9 +24,7 @@
 
 
 
-{% hint style="info" %}
 客户端配置
-{% endhint %}
 
 在 ShadowsocksX-NG-R 应用程序的菜单中选择「打开 Shadowsocks」，并选择一个代理模式，推荐使用「PAC自动模式」或「白名单模式」。
 

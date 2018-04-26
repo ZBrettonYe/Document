@@ -6,21 +6,17 @@
 
 
 
-{% hint style="danger" %}
 Surge 不兼容 SSR 协议，因此需要点击「✓ 一键修改为 SS 模式」才能使用托管模式。
 
 因为兼容问题，托管模式暂不支持 Surge 3 的**新特性**，没有基于 MitM 的规则，不需要安装证书，也无法编辑。
 
 因为协议兼容问题，在使用 Surge 时，其他客户端只可以使用「固定端口」模式。
 
-{% hint style="success" %}
 加密：chacha20-ietf-poly1305
 
 协议：origin
 
 混淆：simple\_obfs\_tls
-{% endhint %}
-{% endhint %}
 
 
 
