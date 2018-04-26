@@ -1,8 +1,6 @@
 # Merlin
 
-{% hint style="danger" %}
 此客户端存在严重的稳定性与可靠性问题。
-{% endhint %}
 
 ## 在线安装
 
@@ -50,9 +48,7 @@
 
 ## 
 
-{% hint style="warning" %}
 由于普通家用路由器其使用的 CPU 大都为 MIPS 或 ARMv7 架构，其性能可能不足，因此可能无法达到较高速率。
-{% endhint %}
 
 以下是各常见路由型号大致连接速率：
 
